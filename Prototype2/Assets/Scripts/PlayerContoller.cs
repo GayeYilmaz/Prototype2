@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerContoller : MonoBehaviour
 {
+  
     public float horizontalInput;
     public float speed = 10.0f;
     public float xRange = 10.0f;
@@ -18,6 +19,7 @@ public class PlayerContoller : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        
         
     }
 
